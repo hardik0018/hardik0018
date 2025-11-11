@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatukiya Hardik</h1>
-<h3 align="center">I am currently a 3rd year BCA student passionate about web development and learning new technologies. I love to build dynamic and interactive web applications, and I am continuously improving my skills.</h3>
+<h3 align="center">I have completed my Bachelor of Computer Applications (BCA) and am currently working as a Full Stack Developer at 
+  <a href="https://www.trionn.com/">Trionn Design </a>. I'm passionate about web development and love building dynamic, interactive web applications. I continuously explore new technologies to enhance my skills and deliver innovative digital solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik0018&label=Profile%20views&color=0e75b6&style=flat" alt="hardik0018" /> </p>
 
