@@ -1,18 +1,118 @@
-<h1 align="center">Hi 👋, I'm Vatukiya Hardik</h1>
-<h3 align="center">I have completed my Bachelor of Computer Applications (BCA) and am currently working as a Full Stack Developer at 
-  <a href="https://www.trionn.com/">Trionn</a>. I'm passionate about web development and love building dynamic, interactive web applications. I continuously explore new technologies to enhance my skills and deliver innovative digital solutions.</h3>
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e9e6e,100:007bff&height=200&section=header&text=Hardik%20Vatukiya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik0018&label=Profile%20views&color=0e75b6&style=flat" alt="hardik0018" /> </p>
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e9e6e&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hardik+%F0%9F%91%8B;Full+Stack+Developer+%40+Trionn;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+ideas+into+digital+products+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-- 📫 How to reach me **hardikvatukiya0014@gmail.com**
-- 🌐 Website **https://hardikvatukiya.vercel.app/**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hardik-vatukiya-30b53423a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik0018" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hardik_vatukiya_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_vatukiya_07" height="30" width="40" /></a>
-</p>
+<!-- Badges Row -->
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=hardik0018&style=for-the-badge&color=0e9e6e&label=PROFILE+VIEWS)](https://github.com/hardik0018)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-0e9e6e?style=for-the-badge&logo=vercel&logoColor=white)](https://hardikvatukiya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-vatukiya-30b53423a)
+[![Email](https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikvatukiya0014@gmail.com)
 
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const hardik = {
+  role     : "Full Stack Developer @ Trionn",
+  education: "Bachelor of Computer Applications (BCA)",
+  location : "India 🇮🇳",
+  focus    : ["Web Apps", "Clean UI", "Scalable Backend"],
+  currently: "Building production-grade products at Trionn",
+  motto    : "Code it. Ship it. Improve it.",
+};
+```
+
+> I build fast, clean, and scalable web applications — from pixel-perfect UIs to solid backend APIs.
+> I care about **code quality**, **performance**, and building things that **actually work**.
+
+---
+
+## ⚡ Tech Stack
+
+### 🎨 Frontend
+<div>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+### ⚙️ Backend & Database
+<div>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
+
+### 📱 Mobile & Tools
+<div>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hardik0018&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=0e9e6e&fire=f97316&currStreakLabel=0e9e6e&sideLabels=0e9e6e" width="49%" />
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hardik0018&theme=tokyo-night&hide_border=true&radius=8&color=0e9e6e&line=0e9e6e&point=f97316&area=true&area_color=0e9e6e)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|:---:|:---:|
+| 🌐 **Portfolio** | [hardikvatukiya.vercel.app](https://hardikvatukiya.vercel.app/) |
+| 💼 **LinkedIn** | [hardik-vatukiya](https://www.linkedin.com/in/hardik-vatukiya-30b53423a) |
+| 📸 **Instagram** | [@hardik_vatukiya_07](https://www.instagram.com/hardik_vatukiya_07/) |
+| 📬 **Email** | [hardikvatukiya0014@gmail.com](mailto:hardikvatukiya0014@gmail.com) |
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0e9e6e&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>⚡ Building one commit at a time · Open to collaborations & freelance work</sub>
+</div>
